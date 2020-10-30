@@ -1,0 +1,33 @@
+Testing (qrfactor.m) 10 x 10:
+relative error = 0.00000000000000129570, runtime = 0.000000 seconds, cond(A) = 70.010954
+relative error = 0.00000000000000141057, runtime = 0.000000 seconds, cond(A) = 167.861804
+relative error = 0.00000000000000129654, runtime = 0.000000 seconds, cond(A) = 98.006777
+relative error = 0.00000000000000142286, runtime = 0.000000 seconds, cond(A) = 400.509308
+relative error = 0.00000000000000125137, runtime = 0.000000 seconds, cond(A) = 75.357819
+relative error = 0.00000000000000091173, runtime = 0.000000 seconds, cond(A) = 73.935848
+relative error = 0.00000000000000097693, runtime = 0.015625 seconds, cond(A) = 36.125687
+relative error = 0.00000000000000187322, runtime = 0.000000 seconds, cond(A) = 36.343837
+relative error = 0.00000000000000151030, runtime = 0.000000 seconds, cond(A) = 68.296761
+relative error = 0.00000000000000113009, runtime = 0.000000 seconds, cond(A) = 3198.322756
+Test (qrfactor.m) 100 x 100:
+relative error = 0.00000000000000224757, runtime = 0.312500 seconds, cond(A) = 1170.899748
+relative error = 0.00000000000000213101, runtime = 0.312500 seconds, cond(A) = 5287.561131
+relative error = 0.00000000000000192355, runtime = 0.187500 seconds, cond(A) = 2410.153718
+relative error = 0.00000000000000208859, runtime = 0.218750 seconds, cond(A) = 5342.827726
+relative error = 0.00000000000000256618, runtime = 0.218750 seconds, cond(A) = 2805.398462
+relative error = 0.00000000000000220725, runtime = 0.187500 seconds, cond(A) = 4938.993746
+relative error = 0.00000000000000257348, runtime = 0.203125 seconds, cond(A) = 802.500683
+relative error = 0.00000000000000216714, runtime = 0.187500 seconds, cond(A) = 2895.717382
+relative error = 0.00000000000000234246, runtime = 0.187500 seconds, cond(A) = 2974.110200
+relative error = 0.00000000000000245638, runtime = 0.187500 seconds, cond(A) = 1598.229285
+Test (qrfactor.m) 500 x 500:
+relative error = 0.00000000000000387756, runtime = 6.546875 seconds, cond(A) = 29188.310095
+relative error = 0.00000000000000358758, runtime = 6.640625 seconds, cond(A) = 39016.870266
+relative error = 0.00000000000000347421, runtime = 6.625000 seconds, cond(A) = 27758.195856
+relative error = 0.00000000000000360925, runtime = 6.609375 seconds, cond(A) = 38782.609012
+relative error = 0.00000000000000362457, runtime = 6.515625 seconds, cond(A) = 46912.342582
+relative error = 0.00000000000000344572, runtime = 6.406250 seconds, cond(A) = 1152033.221090
+relative error = 0.00000000000000357026, runtime = 6.546875 seconds, cond(A) = 35507.530384
+relative error = 0.00000000000000356837, runtime = 6.468750 seconds, cond(A) = 33313.212275
+relative error = 0.00000000000000374726, runtime = 6.453125 seconds, cond(A) = 27924.250688
+relative error = 0.00000000000000349139, runtime = 6.484375 seconds, cond(A) = 121389.019112

@@ -1,0 +1,33 @@
+Testing (qr()) 10 x 10:
+relative error = 0.00000000000000084873, runtime = 0.000000 seconds, cond(A) = 169833071.540916
+relative error = 0.00000000000000080785, runtime = 0.000000 seconds, cond(A) = 1778890892.547168
+relative error = 0.00000000000000064227, runtime = 0.000000 seconds, cond(A) = 14428201.982349
+relative error = 0.00000000000000081608, runtime = 0.000000 seconds, cond(A) = 71474324.888216
+relative error = 0.00000000000000075215, runtime = 0.000000 seconds, cond(A) = 32698260.059399
+relative error = 0.00000000000000054416, runtime = 0.000000 seconds, cond(A) = 151706113.811746
+relative error = 0.00000000000000086060, runtime = 0.000000 seconds, cond(A) = 93735833.615341
+relative error = 0.00000000000000073555, runtime = 0.000000 seconds, cond(A) = 19356125.624095
+relative error = 0.00000000000000108838, runtime = 0.000000 seconds, cond(A) = 29424595.560839
+relative error = 0.00000000000000102248, runtime = 0.000000 seconds, cond(A) = 17502473.846050
+Test (qr()) 100 x 100:
+relative error = 0.00000000000000214345, runtime = 0.000000 seconds, cond(A) = 1245205542.304120
+relative error = 0.00000000000000214487, runtime = 0.000000 seconds, cond(A) = 519999453.104088
+relative error = 0.00000000000000220577, runtime = 0.000000 seconds, cond(A) = 133736590.593449
+relative error = 0.00000000000000220387, runtime = 0.000000 seconds, cond(A) = 114368214.020459
+relative error = 0.00000000000000228172, runtime = 0.000000 seconds, cond(A) = 86119519.642987
+relative error = 0.00000000000000224540, runtime = 0.000000 seconds, cond(A) = 83113526.134954
+relative error = 0.00000000000000236269, runtime = 0.000000 seconds, cond(A) = 137693893.964133
+relative error = 0.00000000000000222804, runtime = 0.000000 seconds, cond(A) = 724613925.749088
+relative error = 0.00000000000000184392, runtime = 0.000000 seconds, cond(A) = 321117056.908064
+relative error = 0.00000000000000200146, runtime = 0.000000 seconds, cond(A) = 1400930749.247992
+Test (qr()) 500 x 500:
+relative error = 0.00000000000000299963, runtime = 0.000000 seconds, cond(A) = 885165385.034134
+relative error = 0.00000000000000299735, runtime = 0.000000 seconds, cond(A) = 414618896.906712
+relative error = 0.00000000000000294093, runtime = 0.000000 seconds, cond(A) = 1894329542.035896
+relative error = 0.00000000000000281110, runtime = 0.000000 seconds, cond(A) = 491724391.595690
+relative error = 0.00000000000000290857, runtime = 0.062500 seconds, cond(A) = 1567115172.191730
+relative error = 0.00000000000000280824, runtime = 0.000000 seconds, cond(A) = 453215694.719037
+relative error = 0.00000000000000291254, runtime = 0.062500 seconds, cond(A) = 220082847.163991
+relative error = 0.00000000000000292439, runtime = 0.062500 seconds, cond(A) = 1115548943.254014
+relative error = 0.00000000000000295615, runtime = 0.000000 seconds, cond(A) = 3539170957.673834
+relative error = 0.00000000000000300450, runtime = 0.000000 seconds, cond(A) = 338619469.249361
